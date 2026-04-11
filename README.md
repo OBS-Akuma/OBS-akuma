@@ -22,6 +22,19 @@
 
 <br/>
 
+## My Projects
+
+<div align="center">
+  <a href="https://www.smudgy.store/">
+    <img src="https://img.shields.io/badge/Smudgy.store-000000?style=for-the-badge&logo=null&logoColor=black" />
+  </a>
+  <a href="https://glint-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Glint-000000?style=for-the-badge&logo=null&logoColor=black" />
+  </a>
+</div>
+
+<br/>
+
 ## Nuggets?
 
 ```python
@@ -35,8 +48,20 @@ class Anthony:
     def status(self):
         return f" Currently breaking and fixing: {self.current_project}"
 ```
-<div align="center"> <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> </div>
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OBS-Akuma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OBS-Akuma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=OBS-Akuma&theme=tokyonight&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="90%" /> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=OBS-Akuma&style=for-the-badge&color=00FFAA" /> <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" /> </div> 
+<div align="center"> 
+  <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> 
+</div>
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OBS-Akuma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OBS-Akuma&theme=tokyonight&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="90%" /> 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OBS-Akuma&style=for-the-badge&color=00FFAA" />
+  <br/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" /> 
+</div>
