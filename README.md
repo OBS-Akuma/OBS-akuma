@@ -7,7 +7,7 @@
 ## Tech stuff
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,nextjs,nodejs,typescript,linux,electron,discordjs,ts,raspberrypi,react,p5js,&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,nextjs,nodejs,typescript,windows,linux,electron,discordjs,ts,raspberrypi,react,p5js,vscode,unity,replit,regex,threejs&perline=5" />
 </div>
 
 <br/>
