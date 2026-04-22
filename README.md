@@ -28,8 +28,8 @@
   <a href="https://www.smudgy.store/">
     <img src="https://img.shields.io/badge/Smudgy.store-000000?style=for-the-badge&logo=null&logoColor=black" />
   </a>
-  <a href="https://glint-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Glint-000000?style=for-the-badge&logo=null&logoColor=black" />
+  <a href="https://freaksforever.xyz">
+    <img src="https://img.shields.io/badge/freaksforever.xyz-000000?style=for-the-badge&logo=null&logoColor=black" />
   </a>
 </div>
 
