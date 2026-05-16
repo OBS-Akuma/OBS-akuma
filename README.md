@@ -31,6 +31,9 @@
   <a href="https://freaksforever.xyz">
     <img src="https://img.shields.io/badge/freaksforever.xyz-000000?style=for-the-badge&logo=null&logoColor=black" />
   </a>
+  <a href="https://ab4core.com">
+    <img src="https://img.shields.io/badge/Ab4croe.com-000000?style=for-the-badge&logo=null&logoColor=black" />
+  </a>
 </div>
 
 <br/>
