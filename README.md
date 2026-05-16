@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Anthony;Welcome+to+my+profile;meow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=i%2C+like+.;.+.+.+.;Nuggets" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -48,6 +48,10 @@ class Anthony:
     def status(self):
         return f" Currently breaking and fixing: {self.current_project}"
 ```
+<div align="center"> 
+  <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=NUGGET" /> 
+</div>
+
 <div align="center"> 
   <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> 
 </div>
