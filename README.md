@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=i+like+.+.+.+.;Nuggets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=i+like+.+.+.+.;Nuggets" />
 </div>
 
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a24f1982-1879-4210-8630-38cb9a9a2e43" width="65%" />
+</div>
 
 ## 🛠️ Tech Stack
 
