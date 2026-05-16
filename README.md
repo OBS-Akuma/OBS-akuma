@@ -53,8 +53,10 @@ class Anthony:
     def status(self):
         return f"🔧 Currently breaking and fixing: {self.current_project}"
 ```
-📊 GitHub Stats
+Super duper cool Embeded Profile i made
 <div align="center"> <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=NUGGET" /> </div>
+
+## 📊 GitHub Stats
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OBS-Akuma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" /> </div>
 <div align="center"> <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> </div>
 <div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OBS-Akuma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" /> </div>
