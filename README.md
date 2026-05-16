@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a24f1982-1879-4210-8630-38cb9a9a2e43" width="65%" />
+  <img src="https://github.com/user-attachments/assets/a24f1982-1879-4210-8630-38cb9a9a2e43" width="65%" alt="banner" />
 </div>
 
 ## 🛠️ Tech Stack
