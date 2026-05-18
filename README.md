@@ -56,7 +56,7 @@ class Anthony:
         return f"🔧 Currently breaking and fixing: {self.current_project}"
 ```
 Super duper cool Embeded Profile i made
-<div align="center"> <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=NUGGET" /> </div>
+<div align="center"> <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=#NUGGET" /> </div>
 
 ## 📊 GitHub Stats
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OBS-Akuma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" /> </div>
