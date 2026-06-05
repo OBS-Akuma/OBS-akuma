@@ -66,7 +66,7 @@ Super duper cool Embeded Profile i made
 <div align="center"> <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=#NUGGET" /> </div>
 
 ## GitHub Stats
-<div align="center"> <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> </div>
+<div align="center"> <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=1A8E50&ignoreAppId=none&idleMessage=I%27m%20Prob%20Gooning&theme=dark&hideDiscrim=true&showDisplayName=true&borderRadius=0px" /> </div>
 <div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OBS-Akuma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" /> </div>
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OBS-Akuma&theme=github_dark&hide_border=true" width="50%" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=OBS-Akuma&style=for-the-badge&color=00FFAA" /> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" /> </div>
