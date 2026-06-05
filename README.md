@@ -1,11 +1,18 @@
 <div align="center">
   <img align="left" src="https://github.com/user-attachments/assets/47080632-1822-49db-804d-56569eb93ebf" width="350">
-  <img align="right" src="https://github.com/user-attachments/assets/b12a0bc3-4680-4980-b570-7c744f6c79d4" width="350" style="transform: scaleX(-1);">
+  <img align="right" src="https://github.com/user-attachments/assets/b12a0bc3-4680-4980-b570-7c744f6c79d4" width="350">
+  
+  15, working on life.<br>
+  Finding out who I am,<br>
+  Trying to fit in,<br>
+  Unsure how, but one day I'll learn.<br>
+  I go by many names: Anthony, James, Tony.<br>
+  But I think I like Dinny the best.
+  
   <br clear="both">
 </div>
 
 <br/>
-
 
 ## Tech Stack
 
@@ -26,7 +33,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
----
 
 ## Featured Projects
 
@@ -42,7 +48,6 @@
   </a>
 </div>
 
----
 
 ## About Me
 
