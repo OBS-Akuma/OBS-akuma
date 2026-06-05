@@ -6,21 +6,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=i+like+.+.+.+.;Nuggets" />
-</div>
-
-<div align="center">
-  <sub>banner by a.wahid.kirkfps</sub>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a24f1982-1879-4210-8630-38cb9a9a2e43" width="65%" alt="banner" />
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,py,nextjs,nodejs,typescript,windows,linux,electron,discordjs,discord,raspberrypi,react,p5js,vscode,unity,replit,regex,threejs&perline=5" />
@@ -41,7 +29,7 @@
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://www.smudgy.store/">
@@ -57,7 +45,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class Anthony:
@@ -68,12 +56,12 @@ class Anthony:
         self.motto = "Make it work, make it fast, make it look crazy good"
     
     def status(self):
-        return f"🔧 Currently breaking and fixing: {self.current_project}"
+        return f"Currently breaking and fixing: {self.current_project}"
 ```
 Super duper cool Embeded Profile i made
 <div align="center"> <img src="https://kirkaprofilesembeded.morgan905499.workers.dev/?meow=#NUGGET" /> </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center"> <img src="https://lanyard.cnrad.dev/api/1169111190824308768?bg=0D1117&idleMessage=Probably%20coding%20or%20gooning&theme=dark&showDisplayName=true&borderRadius=20px" /> </div>
 <div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OBS-Akuma&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" /> </div>
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OBS-Akuma&theme=github_dark&hide_border=true" width="50%" /> </div>
